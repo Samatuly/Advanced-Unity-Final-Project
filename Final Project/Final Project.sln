@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f225bd4a-5374-141e-1c63-bce00338d1e5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{000ab16c-51c0-e22f-03c6-036cbd648e1d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_HealthSystem", "CodeMonkey_HealthSystem.csproj", "{b7477b28-410b-4764-9e7b-6b03eaa21ce4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_HealthSystem_Editor", "CodeMonkey_HealthSystem_Editor.csproj", "{6fcdccd5-a02e-7a1d-2ba6-5b42ce4e6d0f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f225bd4a-5374-141e-1c63-bce00338d1e5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f225bd4a-5374-141e-1c63-bce00338d1e5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000ab16c-51c0-e22f-03c6-036cbd648e1d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000ab16c-51c0-e22f-03c6-036cbd648e1d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b7477b28-410b-4764-9e7b-6b03eaa21ce4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b7477b28-410b-4764-9e7b-6b03eaa21ce4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6fcdccd5-a02e-7a1d-2ba6-5b42ce4e6d0f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6fcdccd5-a02e-7a1d-2ba6-5b42ce4e6d0f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
